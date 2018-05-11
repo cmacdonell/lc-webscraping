@@ -3,7 +3,7 @@
 #------------------------------------------------------------
 
 # Which carpentry is this ("swc" or "dc")?
-carpentry: "dc"
+carpentry: "lc"
 
 # Overall title for pages.
 title: "Introduction to web scraping"
